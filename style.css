@@ -20,6 +20,7 @@ section{height:600px;
     background-size: 100%;
     
     
+    
 }
 .half-width1{
     width: 40%;
@@ -36,7 +37,7 @@ section{height:600px;
 }
 .button-link{
     text-decoration:none;
-     background-color: magenta;
+    background-color: magenta;
     color:white;
     padding: 2%;
     border-radius: 5%;
@@ -63,4 +64,35 @@ section{height:600px;
 }
 .latest-work{
     text-align: center;
+    padding-bottom: 20px;
 }
+.work{
+    float:left;
+    width:25%;
+    padding-left: 5%;
+    padding-right: 3%;
+    }
+
+.work img{
+    width: 100%;
+}
+.work2{
+    width: 25%;
+    float: right;
+    padding-left: 5%;
+    padding-right: 3%;
+}
+.work2 img{
+    width: 100%;
+    height: auto;
+}
+.work3{
+    width: 25%;
+    float: right;
+    padding-left: 5%;
+    padding-right: 3%;
+}
+.work3 img{
+    width: 100%;
+    height: auto;
+
